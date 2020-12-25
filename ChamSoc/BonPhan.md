@@ -1,0 +1,24 @@
+# Bón Phân
+
+- Luôn xới đất đều trước khi bón
+  - Chỉ xới 1 bên mỗi lần, bón xong, sau 1 đến 2 tháng sẽ xới và bón tiếp bên còn lại của cây.
+    - Giúp bổ sung dinh dưỡng dần
+    - Giữ 1 bộ rễ nguyên vẹn ở bên kia
+    - Bộ rễ bên này sẽ bị tổn thương, và phát triển mới giúp rễ cây trẻ hoá và hấp thụ dinh dưỡng từ phân.
+  - Giúp đất tơi xốp, nhiều oxy cho rễ
+  - Phát hiện các sùi (nếu có) dưới rễ, loại bỏ sớm giúp cây phát triển tốt [Video]()
+    - Sùi dưới rễ như là khối u với cây, cần loại bỏ nếu không tất cả chất dinh dưỡng cây sẽ k thể hấp thủ được
+    - Sau khi loại bỏ sùi, bôi vôi bột vào vết thương giúp cây hồi phục tránh nhiễm trùng.
+  - Loại bỏ các sâu bọ, sùng trong đất
+- Thời điểm bón tốt nhất là giai đoạn hoa vừa tàn
+- Liều lượng:
+  - Chuẩn:
+    - 1 trứng + 1 chuối (mỗi vụ hoa)
+    - Nước đậu tương pha tưới đều (mỗi tuần).
+    - Đạm cá 1 muỗng cà phê (mỗi 2 tuần).
+- Hạn chế tối đa việc bón phân hoá học (ví như thuốc tây đối với cây), phân hữu cơ sẽ như là thức ăn hàng ngày đối với cây. [Không nên uống thuốc nếu không cần thiết]
+- Giá thể nên dùng trấu hoặc sơ dừa (đối với nơi mưa nhiều cần cẩn thận vì sơ dừa giữ nước rất tốt nên có thể gây úng rễ, đen thân).
+  - Trấu có thể trộn với cám gà để bón cho cây.
+  - Trấu giúp tơi xốp đất, thoát nước tốt.
+- Khuyến khích Bón phân chuồng (gà, bò) đã ủ cho cây.
+- Đối với cây con, cây đang kích rễ nên bón phân xa gốc, không nên bón trực tiếp vào gốc sẽ gây sót rễ, bón đều xung quanh gốc, cách gốc khoảng 10 - 15 cm.
