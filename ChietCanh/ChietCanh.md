@@ -26,9 +26,9 @@
 - Nhìn ở vết cắt khi đã có các sùi ra thì có thể bọc bầu vào.
 - Bóc vỏ xong thì ta nên cố định cành để tránh gió gây gãy ở vị trí bóc, do đã mất lớp vỏ bảo vệ cành khỏi gãy.
 
-## Tạo bầu chiết
+## Thực hiện
 
-- 
+- [Hướng dẫn](https://www.youtube.com/watch?v=6Jr8hzH5jJs&t=575s)
 
 ## Chăm sóc bầu
 
