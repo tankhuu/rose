@@ -4,21 +4,37 @@
 
 - Giai đoạn hoa tàn, trước khi cắt tỉa 2 hoặc 3 ngày [Video](https://www.youtube.com/watch?v=w2__v0MPPKs)
   - Xới đất 1 bên cây
-  - 1 trứng vịt 
-    - Đâm vài lỗ trên vỏ trứng giúp rễ dễ hút chất dinh dưỡng
-    - Chôn thật sâu để tránh mùi hôi, giòi bọ phát sinh khi phân huỷ.
-  - 1 trái chuối chín:
-    - Chôn trong đất (tránh rùi bọ)
-    - Cắt nhỏ thành lát
-  - 1 nắm cám gà + trấu (nếu có)
-- Mỗi tuần
-  - Pha loãng nước đậu tương hoặc dịch chuối tưới gốc
-- Mỗi 2 tuần:
+    - 1 trứng vịt 
+      - Đâm vài lỗ trên vỏ trứng giúp rễ dễ hút chất dinh dưỡng
+      - Chôn thật sâu để tránh mùi hôi, giòi bọ phát sinh khi phân huỷ.
+    - 1 trái chuối chín:
+      - Chôn trong đất (tránh rùi bọ)
+      - Cắt nhỏ thành lát
+    - Hoặc 2 nắm cám gà + trấu (nếu có)
+  - [Làm mới rễ](https://www.youtube.com/watch?v=ecu6NCcihdo) 
+    - Thực hiện mỗi 3 hoặc 6 tháng 1 lần - giúp cây sinh rễ non, loại bỏ rễ già.
+    - Dùng dao sắt, cắt 1 đường ngọt ở 1 bên rễ cây từ trên xuống dưới.
+    - Trộn phân hữu cơ, trấu, và đất.
+    - Cho vào thay cho phần đất và rễ vừa bị cắt bỏ.
+- Sau khi vừa cắt tỉa: 
+  - Xới lớp đất trên mặt
+  - Bón vôi bột xung đều xung quanh mặt chậu.
+- Sau cắt tỉa 2 hoặc 3 ngày: 
+  - Xới lớp đất trên mặt
+  - Bón đều phân Lân (Lâm Thao Phốt phát) xung quanh gốc 
+  - Hoặc pha nước tưới đẫm gốc.
+- Mỗi 2 hoặc 3 ngày: phun thân và lá với [Dịch Chuối](https://www.youtube.com/watch?v=12S6st1QWaY&t=554s) bổ sung vi lượng cho cây.
+- Sau khi cây ra mầm, chồi, hoặc tưới dịch chuối 1 ngày
+  - Pha dung dịch gừng, tỏi, ớt, vài giọt nước rửa chén
+  - Phun thân và lá giúp đuổi côn trùng, phòng trừ bọ trĩ, ...
+- Mỗi 1 hoặc 2 tuần:
   - Xới đất
   - Bón 1 muỗng cà phê phân cá của Mỹ, mua từ [anh Hướng](https://www.facebook.com/do.ngochuong)
-- Khi mầm có lộc (kết hoa)
-  - Ngâm phân silicat trong nước và tưới gốc -> Giúp hoa màu Vivid hơn
-  - Pha Kali hoà vào nước, phun đều lên lá (mỗi tuần 1 lần đến khi hoa nở) -> Giúp hoa nở lâu, cứng cáp
+  - Hoặc Các loại phân hữu cơ (dịch chuối, đậu tương humic, cám gà, ...)
+  - Bón xung quanh hoặc chôn xung quanh chậu.
+  - Tưới đẫm nước cho chậu sau khi bón phân.
+- Mỗi tháng
+  - Pha [dung dịch nước tt](https://www.facebook.com/tranmy666/posts/209799157400512) - nếu có.
 
 - Bón lót
   - Nên thực hiện khi vào chậu cho cây
